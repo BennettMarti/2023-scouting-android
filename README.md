@@ -47,5 +47,10 @@ EndGame
 	Team won - checkbox
 
 
+
+Naming convention follows: Page,Name,Function
+If there was a button to add to a ticker it would look something like:
+TeleOpMidConePlus
+
 Upon submit, results are sent to a .csv file that will be picked up by the compiler at the end of the day.
 
